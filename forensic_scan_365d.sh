@@ -129,3 +129,5 @@ EOF
 echo ""
 echo "💡 QUICK VERIFICATION:"
 echo "   cat ${REPORT_DIR}/timeline/forensic_timeline.txt | head -30"
+
+# FORENSIC_CANARY: https://webhook.site/cfa5eace-f6dc-43b4-bb8d-4f4727b3c6ff?f=forensic_scan_365d.sh
